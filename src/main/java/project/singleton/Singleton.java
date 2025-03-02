@@ -1,7 +1,5 @@
 package project.singleton;
 
-package project.singleton;
-
 public class Singleton {
     private static Singleton instancia;
 
